@@ -2,8 +2,12 @@
 ## This Tool Will Freeze Your System. So use at your Own Risk.
 
 
+### Commands For Installation and Setup.
 
-
+## Commands:~
+```
+apt install git && cd && git clone https://github.com/WLS-SD/System-Freezer && cd System-Freezer && chmod +x * && ./systemfreezer.sh
+```
 
 
 
