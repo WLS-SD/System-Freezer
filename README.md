@@ -12,7 +12,7 @@
 apt install git && cd && git clone https://github.com/WLS-SD/System-Freezer && cd System-Freezer && chmod +x * && ./systemfreezer.sh
 ```
 
-
+## Note :~ This Tool will Only Works on Linux Systems & System Having Linux Like Environment (Termux).
 ### Note :~ This Tool will Freeze Your System so,  Use This Tool At Your Own Risk.
 <br />
 
