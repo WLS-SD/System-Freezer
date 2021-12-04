@@ -10,10 +10,10 @@ apt install git && cd && git clone https://github.com/WLS-SD/System-Freezer && c
 ```
 
 
-# Note :~ This Tool will Freeze Your System so,  Use This Tool At Your Own Risk.
+### Note :~ This Tool will Freeze Your System so,  Use This Tool At Your Own Risk.
 <br />
 
-# Tip :~ Do Reboot Your System if your Computer gets Freeze.
+### Tip :~ Do Reboot Your System if your Computer gets Freeze.
 
 
 <br />
